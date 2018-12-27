@@ -1,0 +1,17 @@
+{
+  "compatibleVersion": 3,
+  "bundleVersion": 1,
+  "commands": [
+    {
+      "name": "Open",
+      "identifier": "my-command-identifier",
+      "script": "./my-command.js"
+    }
+  ],
+  "menu": {
+    "title": "Parker Hendo",
+    "items": [
+      "my-command-identifier"
+    ]
+  }
+}
