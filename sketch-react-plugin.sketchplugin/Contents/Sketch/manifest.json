@@ -15,8 +15,9 @@
     ]
   },
   "version": "0.1.0",
-  "name": "sketch-react-plugin",
-  "identifier": "sketch-react-plugin",
+  "description": "View my portfolio in sketch",
+  "name": "Parker-Portfolio",
+  "identifier": "Parker-Portfolio",
   "disableCocoaScriptPreprocessor": true,
   "appcast": "https://raw.githubusercontent.com//master/.appcast.xml",
   "author": "Parker Henderson",

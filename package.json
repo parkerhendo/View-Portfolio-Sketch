@@ -1,11 +1,12 @@
 {
   "name": "parkers-website",
+  "description": "View my portfolio in sketch",
   "version": "0.1.0",
   "engines": {
     "sketch": ">=3.0"
   },
   "skpm": {
-    "name": "sketch-react-plugin",
+    "name": "Parker-Portfolio",
     "manifest": "src/manifest.json",
     "main": "sketch-react-plugin.sketchplugin"
   },
