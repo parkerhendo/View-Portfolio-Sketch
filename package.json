@@ -1,7 +1,7 @@
 {
   "name": "parkers-website",
   "description": "View my portfolio in sketch",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "engines": {
     "sketch": ">=3.0"
   },
